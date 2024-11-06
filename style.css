@@ -40,6 +40,12 @@ a.active {
   padding: 20px;
   display: inline-block;
 }
+
+.card:hover {
+  box-shadow: 4px 4px 3px 0px black;
+  border-radius: 4px;
+}
+
 .about {
   width: 40%;
   min-width: 600px;
